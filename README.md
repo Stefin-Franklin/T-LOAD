@@ -1,7 +1,8 @@
 <h1 align="center">T-LOAD v1.0</h1>
 <p align="center">
       New advanced terminal for Termux users with simple steps
-</p>
+     
+      ![](Scrennshot.png)
 
 ## About T-LOAD :
 
