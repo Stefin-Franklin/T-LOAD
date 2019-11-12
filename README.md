@@ -1,14 +1,17 @@
+![](Scrennshot.png)
+
 <h1 align="center">T-LOAD v1.0</h1>
 <p align="center">
       New advanced terminal for Termux users with simple steps
      
-      ![](Scrennshot.png)
+     
+      
 
 ## About T-LOAD :
 
 T-LOAD is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-Rooted Android device.
 
-![](screenshot.png)
+
 
 ### T-LOAD is available for
 
