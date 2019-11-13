@@ -1,4 +1,4 @@
-![](Scrennshot.png)
+![](Screenshot.png)
 
 <h1 align="center">T-LOAD v1.0</h1>
 <p align="center">
